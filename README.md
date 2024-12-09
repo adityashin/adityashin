@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Aditya Anand Shinde</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@adityashinde2at" target="blank"><img src="https://img.shields.io/twitter/follow/@adityashinde2at?logo=twitter&style=for-the-badge" alt="@adityashinde2at" /></a> </p>
 
-- 🌱 I’m currently learning **MERN.**
+- 🌱 I’m currently learning **MERN Stack.**
 
 - 👨‍💻 All of my projects are available at [https://adityashin.github.io/My-Portfolio/](https://adityashin.github.io/My-Portfolio/)
 
